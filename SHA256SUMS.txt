@@ -1,1 +1,1 @@
-ef194a080df36a4be95d144c020b3df876b5cfe6a99c5edeed341c0414c239ca  Ailit-Tool-Setup-v0.9.0-cash-search-test.44.exe
+835239028e2959b26ede16b812a546f84d7f3b4352b1f24d87441c3b68876147  Ailit-Tool-Setup-v0.9.0-test.6.exe
