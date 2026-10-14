@@ -1,4 +1,3 @@
-[HamiDiagPush.zip](https://github.com/user-attachments/files/33450008/HamiDiagPush.zip)
 # HamiTool 公开下载
 
 当前最新版：**v0.9.0-test.6**（测试版，需要激活码）
